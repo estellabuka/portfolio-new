@@ -1,0 +1,11 @@
+.mark {
+	background: pink;
+}
+.wrapper {
+	
+}
+.bg {
+	height: 200px;
+	background-color: #ccc;
+	background-image: url("../img/grass.png");
+}
